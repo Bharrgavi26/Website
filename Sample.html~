@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCUMENT html>
 <html>
 <head>
     <title>My Practice</title>
@@ -7,6 +7,5 @@
 <body>
     <h1>Welcome to My Practice Page</h1>
     <p>This is a sample HTML file created for practice purposes.</p>
-    <h2>Learning with KKR</h2>
 </body>
 </html>
